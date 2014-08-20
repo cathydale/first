@@ -1,14 +1,4 @@
 h1 {
-img {
-   width: 10%;
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   position: absolute;
-   left: 300px;
-   top: 300px;
-}
-
    color: Blue;
   }
 img {
@@ -16,20 +6,11 @@ img {
    display: block;
    margin-left: auto;
    margin-right: auto;
-   position: absolute;
-   left: 300px;
    top: 300px;
 }
 body {
    
       background-color:Crimson;
 }
-img {
-   width: 10%;
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   position: absolute;
-   left: 300px;
-   top: 300px;
-}
+
+
