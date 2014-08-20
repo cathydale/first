@@ -11,4 +11,7 @@ img {
    display: block;
    margin-left: auto;
    margin-right: auto;
+   position: absolute;
+   left: 100px;
+   top: 300px;
 }
